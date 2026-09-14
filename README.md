@@ -1,4 +1,4 @@
-# Hi, I'm Randolf 👋
+# Hi, I'm Randolf 👋🏿
 
 ### 🛠️ Languages & Tools
 * **Languages & Web:** `SQL` `HTML5` `CSS3` `JavaScript`
