@@ -25,7 +25,7 @@ Computer Science graduate actively transitioning into Data Analytics. I spend my
 
 ---
 
-  ### 🚫 Offline Activities
+  ### 🔌 Offline Activities
 * ⚽ Stressing over Manchester United matches
 * 🏀 Playing pick-up basketball whenever there's an open court
 * 📺 Bingeing action-adventure movies and K-dramas
